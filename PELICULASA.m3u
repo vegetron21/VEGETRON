@@ -18,7 +18,9 @@ https://cdn.jwplayer.com/manifests/dhDdoZjJ.m3u8
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) 1080P
 https://cdn.jwplayer.com/videos/dhDdoZjJ-sVZCnhNi.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) 1080P
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) 720
 https://cdn.jwplayer.com/videos/dhDdoZjJ-fK9dDsAj.mp4
 
 
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) JWPLAYER
+https://cdn.jwplayer.com/players/dhDdoZjJ-bDz2Dmxc.js
