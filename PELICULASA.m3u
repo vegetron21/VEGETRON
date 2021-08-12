@@ -1,36 +1,20 @@
 #EXTM3U
-#EXTINF:-1 ,Película de ejemplo (2017)
-https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
 
-#EXTM3U
-#EXTINF:-1 tvg-logo=”https://www.universalpictures-latam.com/tl_files/content/movies/fast9/posters/01.jpg”,Rapido y furioso 9| ACCION
-https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg",Escuadron Suicida 2 (2021)
+https://cdn.jwplayer.com/videos/ZZwcpOy3-sVZCnhNi.mp4
 
-#EXTINF:-1 tvg-logo=”https://www.aventurasnerd.com/wp-content/uploads/2021/05/jungle.jpeg”,Jungle Cruise| AVENTURA
-https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg",Rapido y furioso 9 (2021)
+https://cdn.jwplayer.com/videos/oLTNoatP-fK9dDsAj.mp4
 
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 1080P
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60362.mkv
-
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) LIVE
-https://cdn.jwplayer.com/manifests/dhDdoZjJ.m3u8
-
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) 1080P
-https://cdn.jwplayer.com/videos/dhDdoZjJ-sVZCnhNi.mp4
-
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) 720
-https://cdn.jwplayer.com/videos/dhDdoZjJ-fK9dDsAj.mp4
-
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) JWPLAYER
-https://cdn.jwplayer.com/players/dhDdoZjJ-bDz2Dmxc.js
+https://cdn.jwplayer.com/videos/GmQpzrWH-sVZCnhNi.mp4
 
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) MP4 FRAME
 https://content.jwplatform.com/videos/dhDdoZjJ-sVZCnhNi.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) POSIBLE TOKEN
-https://videos-fms.jwpsrv.com/0_61148221_0xbdc0dfe35e8da01625ccbdc5d5948ba04feab5d3/content/conversions/hPG6W8PW/videos/dhDdoZjJ-34014875.mp4
-
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) DROPBOX
 https://dl.dropboxusercontent.com/s/rwutw7odfkntes5/JungleCruise.mp4
+
+
 
 
