@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/31/16/41/4145554.jpg",Venom 2: Habrá Matanza
+https://cdn.jwplayer.com/videos/IjE3YLiS-BYHQVrD7.mp4
+
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg",Escuadron Suicida 2 (2021)
 https://cdn.jwplayer.com/videos/ZZwcpOy3-sVZCnhNi.mp4
 
@@ -77,6 +80,7 @@ https://cdn.jwplayer.com/videos/okW6gkcQ-V7oPJplq.mp4
 
 #EXTINF:-1 group-title="ACCION" tvg-logo="https://pics.filmaffinity.com/greyhound-142654194-mmed.jpg",Greyhound: En la mira del enemigo
 https://cdn.jwplayer.com/videos/jWKDVhbT-1Hg5NvTI.mp4
+
 
 
 
