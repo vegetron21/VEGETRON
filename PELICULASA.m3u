@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Matrix Resurrecciones 2021
+https://cdn.jwplayer.com/manifests/Fx5yLn0o.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UX320_AL_.jpg",No way home Spiderman 
+https://download2388.mediafire.com/3aexulvsyelg/dr3pwmjaa4zqa0a/Sp1d3rman21_CAM_720p_P04693.mp4
+
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X6 (2021) 
 https://cdn.jwplayer.com/videos/FqsEcCdS-x7cWI5nC.mp4
 
