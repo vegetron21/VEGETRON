@@ -3,6 +3,9 @@
 http://181.198.67.2:8024/play/a0b5/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
+http://globalentertainmentec.xyz:8000/6316/6316/77952
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX320_AL_.jpg",Matrix Resurrecciones 2021
