@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL
 http://181.198.67.14:8024/play/a0b5/79880858.m3u8
 
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX320_AL_.jpg",Matrix Resurrecciones 2021
