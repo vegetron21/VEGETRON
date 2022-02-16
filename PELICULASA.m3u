@@ -20,6 +20,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/118137
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL fhd
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/118136
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET FHD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119957
