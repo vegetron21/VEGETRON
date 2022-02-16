@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
