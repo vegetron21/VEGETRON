@@ -1,5 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://platinumxmedia.xyz:8080/images/7c4c4678948724debd031dccf68d3c3d.png",DISNEY XD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61135
+
+#EXTINF:-1 group-title="CINE" tvg-logo="http://platinumxmedia.xyz:8080/images/f53cb2e04640ca256232eba89d1fafba.png",AXN
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61102
+
+#EXTINF:-1 group-title="CINE" tvg-logo="http://platinumxmedia.xyz:8080/images/f53cb2e04640ca256232eba89d1fafba.png",A&E
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61101
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.luisgyg.com/wp-content/uploads/2013/04/azteca7-logo-nuevo2.jpg",7 AZTECA
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61098
+
+#EXTINF:-1 group-title="COCINA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
