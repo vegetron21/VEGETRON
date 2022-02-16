@@ -2,6 +2,12 @@
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL
 http://181.198.67.2:8024/play/a0b5/index.m3u8
 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119957
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61114
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
 http://200.24.132.99:8000/play/a023
 
