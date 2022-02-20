@@ -8,6 +8,12 @@ http://200.24.132.99:8000/play/a006
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
 http://200.24.132.99:8000/play/a02j
 
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="http://platinumxmedia.xyz:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png",Caracol Internacional? FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60842
+
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="http://platinumxmedia.xyz:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png",Caracol Internacional? SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60843
+
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 http://200.24.132.99:8000/play/a01w
 
