@@ -62,6 +62,15 @@ http://45.4.85.128:58001/play/a061/index.m3u
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
 http://200.24.132.99:8000/play/a028
 
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Scream2022film.jpeg",Scream 2022
+https://content.jwplatform.com/videos/5W4GFI9b-Lta170q0.mp4
+
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://pics.filmaffinity.com/La_matanza_de_Texas-642644129-large.jpg",La matanza de Texas
+https://content.jwplatform.com/videos/A6MUNG9U-BdC7xvt6.mp4
+
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://pics.filmaffinity.com/Hotel_Transilvania_Transforman_a-483494855-large.jpg",Hotel Transilvania: Transformanía
+https://content.jwplatform.com/videos/Xddmv9W5-Lta170q0.mp4
+
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://ver.cuevana3.cc/wp-content/uploads/2022/02/kRpKJstAW7DsoPAEBW2Kk1uD9Q6-185x278.jpg",Clean
 https://content.jwplatform.com/videos/fHC87g2R-iWuHa5Ga.mp4
 
@@ -113,16 +122,16 @@ https://cdn.jwplayer.com/videos/ZZwcpOy3-sVZCnhNi.mp4
 #EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg",Rapido y furioso 9 (2021)
 https://cdn.jwplayer.com/videos/oLTNoatP-fK9dDsAj.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 1080P
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 1080P
 https://cdn.jwplayer.com/videos/GmQpzrWH-sVZCnhNi.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 1
+#EXTINF:-1 group-title="AVENTURA" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 1
 https://content.jwplatform.com/videos/dhDdoZjJ-sVZCnhNi.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 2
+#EXTINF:-1 group-title="AVENTURA" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 2
 https://dl.dropboxusercontent.com/s/rwutw7odfkntes5/JungleCruise.mp4
 
-#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg",Luca (2021) 
+#EXTINF:-1 group-title="DISNEY" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg",Luca (2021) 
 https://cdn.jwplayer.com/videos/r0M8WtQG-Fe7AHLRU.mp4
 
 #EXTINF:-1 group-title="DISNEY" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg",Luca (2021) 
@@ -189,11 +198,7 @@ https://cdn.jwplayer.com/videos/jWKDVhbT-1Hg5NvTI.mp4
 https://jwp.io/s/eAsPfCRH
 
 
-#EXTINF:-0 tvg-id="" tvg-name="SDB HEROES | Dragon ball heroes cap 1? HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-2FlXhMfL.jpg" group-title="|SDB HEROES| DRAGON BALL",SPD HEROES | Dragon ball heroes cap 1
-https://content.jwplatform.com/videos/e8sfD3rR-iWuHa5Ga.mp4
 
-#EXTINF:-0 tvg-id="" tvg-name="Z | Dragon ball Z cap 1 Aparece un mini Goku, su nombre es Gohan? HD" tvg-logo="https://i.pinimg.com/originals/89/6f/c1/896fc17df11af67853e030797db2ed2f.jpg" group-title="|DBZ| DRAGON BALL",Z | Dragon ball Z cap 1 Aparece un mini Goku, su nombre es Gohan.
-https://dl.dropboxusercontent.com/s/zv94am7sufth6aq/001.mp4?dl=0
 
 
 
