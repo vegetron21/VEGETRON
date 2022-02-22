@@ -5,13 +5,13 @@ http://200.24.132.99:8000/play/a02k
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
 http://200.24.132.99:8000/play/a006
 
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
 http://200.24.132.99:8000/play/a02j
 
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="http://platinumxmedia.xyz:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png",Caracol Internacional? FHD
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? FHD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60842
 
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="http://platinumxmedia.xyz:8080/images/78b441ffd4d75e6c4d52be53f96570f7.png",Caracol Internacional? SD
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? SD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60843
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
@@ -71,7 +71,7 @@ http://200.24.132.99:8000/play/a028
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Scream2022film.jpeg",Scream 2022
 https://content.jwplatform.com/videos/5W4GFI9b-Lta170q0.mp4
 
-#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://pics.filmaffinity.com/La_matanza_de_Texas-642644129-large.jpg",La matanza de Texas
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://www.mediafire.com/convkey/da9c/89gxa74mj30vefs7g.jpg",La matanza de Texas
 https://content.jwplatform.com/videos/A6MUNG9U-BdC7xvt6.mp4
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://pics.filmaffinity.com/Hotel_Transilvania_Transforman_a-483494855-large.jpg",Hotel Transilvania: Transformanía
@@ -104,15 +104,15 @@ https://content.jwplatform.com/videos/2pn2Vcse-iWuHa5Ga.mp4
 #EXTINF:-0 group-title="ESTRENOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX320_AL_.jpg",Matrix Resurrecciones 2021
 https://cdn.jwplayer.com/manifests/Fx5yLn0o.m3u8
 
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X6 (2021) 
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/9a62/7nkuy5c9dqeki8o7g.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X6 (2021) 
 https://cdn.jwplayer.com/videos/FqsEcCdS-x7cWI5nC.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X7 (2021) 
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/9a62/7nkuy5c9dqeki8o7g.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X7 (2021) 
 https://cdn.jwplayer.com/videos/qgg0IMHV-x7cWI5nC.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X8 (2021) 
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/9a62/7nkuy5c9dqeki8o7g.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X8 (2021) 
 https://cdn.jwplayer.com/videos/uxyvbLsK-x7cWI5nC.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X9 (2021) 
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/9a62/7nkuy5c9dqeki8o7g.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X9 (2021) 
 https://cdn.jwplayer.com/videos/6Awl7LQx-x7cWI5nC.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/17/15/21/3761800.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X10 (2021) 
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/9a62/7nkuy5c9dqeki8o7g.jpg",Casa de papel temp 5 Vol 2  CAPITULO 5X10 (2021) 
 https://cdn.jwplayer.com/videos/Qiw0qOHI-x7cWI5nC.mp4
 
 #EXTINF:-0 group-title="ACCION" tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/31/16/41/4145554.jpg",Venom 2: Habrá Matanza
@@ -127,10 +127,10 @@ https://cdn.jwplayer.com/videos/oLTNoatP-fK9dDsAj.mp4
 #EXTINF:-0 group-title="INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 1080P
 https://cdn.jwplayer.com/videos/GmQpzrWH-sVZCnhNi.mp4
 
-#EXTINF:-0 group-title="AVENTURA" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 1
+#EXTINF:-0 group-title="AVENTURA" tvg-logo="https://www.mediafire.com/convkey/fee4/flfzmyishn47d5i7g.jpg",Jungle Cruise (2021) OPCION 1
 https://content.jwplatform.com/videos/dhDdoZjJ-sVZCnhNi.mp4
 
-#EXTINF:-0 group-title="AVENTURA" tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-756798392-large.jpg",Jungle Cruise (2021) OPCION 2
+#EXTINF:-0 group-title="AVENTURA" tvg-logo="https://www.mediafire.com/convkey/fee4/flfzmyishn47d5i7g.jpg",Jungle Cruise (2021) OPCION 2
 https://dl.dropboxusercontent.com/s/rwutw7odfkntes5/JungleCruise.mp4
 
 #EXTINF:-0 group-title="DISNEY" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg",Luca (2021) 
@@ -160,23 +160,23 @@ https://cdn.jwplayer.com/videos/WcDVUM4c-1GW3tOq6.mp4
 #EXTINF:-0 group-title="X MEN" tvg-logo="https://www.cultture.com/pics/2018/07/captura_de_pantalla_2018-07-04_a_las_19.31.42.png",X Men Dark Fenix
 https://cdn.jwplayer.com/videos/rC642lup-1GW3tOq6.mp4
 
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 1
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 1
 https://content.jwplatform.com/videos/gt1bBO5E-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 2
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 2
 https://content.jwplatform.com/videos/PgoYcyhG-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 3
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 3
 https://content.jwplatform.com/videos/tM22WhOp-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 4
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 4
 https://content.jwplatform.com/videos/KVnBovvF-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 5
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 5
 https://content.jwplatform.com/videos/PhJ7SKTo-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 6
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 6
 https://content.jwplatform.com/videos/NC7atOxu-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 7
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 7
 https://content.jwplatform.com/videos/ypkIGBp2-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 8
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 8
 https://content.jwplatform.com/videos/1ijTzb1E-v1MhnHFd.mp4
-#EXTINF:-0 group-title="SERIES" tvg-logo="https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",El juego del calamar cap 9
+#EXTINF:-0 group-title="SERIES" tvg-logo="https://www.mediafire.com/convkey/5d47/y7m6d930rc5oh4h7g.jpg",El juego del calamar cap 9
 https://content.jwplatform.com/videos/kfO4Wrnh-v1MhnHFd.mp4
 
 #EXTINF:-0 group-title="SERIES" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-40362.jpg",Loki cap 1 (2021) 
@@ -207,13 +207,13 @@ https://cdn.jwplayer.com/videos/QyWsQDVm-V7oPJplq.mp4
 #EXTINF:-0 group-title="VIRUS Y PANDEMIAS" tvg-logo="https://pics.filmaffinity.com/Soy_leyenda-292238988-large.jpg",Soy Leyenda
 https://cdn.jwplayer.com/videos/okW6gkcQ-V7oPJplq.mp4
 
-#EXTINF:-0 group-title="ACCION" tvg-logo="https://pics.filmaffinity.com/greyhound-142654194-mmed.jpg",Greyhound: En la mira del enemigo
+#EXTINF:-0 group-title="ACCION" tvg-logo="https://www.mediafire.com/convkey/7a0d/037s1p5qlsapouh7g.jpg",Greyhound: En la mira del enemigo
 https://cdn.jwplayer.com/videos/jWKDVhbT-1Hg5NvTI.mp4
 
 #EXTINF:-0 group-title="CINE MEXICANO" tvg-logo="https://i.pinimg.com/736x/b2/cd/c3/b2cdc397f32b07417e711e6b6de1b6bb.jpg",Tres lancheros muy picudos
 https://cdn.jwplayer.com/videos/xTCeHPfZ-OpqQhwm0.mp4
 
-#EXTINF:-0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/El_demonio-151671761-large.jpg",El demonio Jeepers Creepers 1
+#EXTINF:-0 group-title="TERROR" tvg-logo="https://www.mediafire.com/convkey/13a5/bz3txkdlkkh16vgzg.jpg",El demonio Jeepers Creepers 1
 https://content.jwplatform.com/videos/oYFz0rUx-tEdjA9Pr.mp4
 
 
