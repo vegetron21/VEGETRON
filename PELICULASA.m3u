@@ -11,14 +11,23 @@ http://200.24.132.99:8000/play/a02j
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",24h
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr_1000.m3u8
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+http://200.24.132.99:8000/play/a02o
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
+http://200.24.132.99:8000/play/a01w
+
+#EXTINF:-1 group-title="COCINA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? FHD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60842
 
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? SD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60843
-
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
-http://200.24.132.99:8000/play/a01w
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="http://platinumxmedia.xyz:8080/images/7c4c4678948724debd031dccf68d3c3d.png",DISNEY XD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61135
@@ -34,15 +43,6 @@ http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61101
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.luisgyg.com/wp-content/uploads/2013/04/azteca7-logo-nuevo2.jpg",7 AZTECA
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61098
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
-http://200.24.132.99:8000/play/a02o
-
-#EXTINF:-1 group-title="COCINA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET SD
 http://45.4.85.128:58001/play/a061/index.m3u8
