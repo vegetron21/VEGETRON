@@ -23,47 +23,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797ba
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60842
-
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://www.mediafire.com/convkey/e03b/0dfzvv0g10z82m6zg.jpg",Caracol Internacional? SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/60843
-
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://platinumxmedia.xyz:8080/images/7c4c4678948724debd031dccf68d3c3d.png",DISNEY XD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61135
-
-#EXTINF:-1 group-title="CINE" tvg-logo="http://platinumxmedia.xyz:8080/images/9df9dc140d139200eaefb695973cbb91.png",AXN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61102
-
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png",CINEMAX
 http://146.0.43.38:2336/play/a02h
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://platinumxmedia.xyz:8080/images/f53cb2e04640ca256232eba89d1fafba.png",A&E
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61101
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.luisgyg.com/wp-content/uploads/2013/04/azteca7-logo-nuevo2.jpg",7 AZTECA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61098
-
 #EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET SD
 http://45.4.85.128:58001/play/a061/index.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119957
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61114
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIREC TV SPORT
 http://146.0.43.38:2336/play/a01o
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/118137
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg",EL CANAL DEL FUTBOL fhd
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/118136
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
 http://45.4.85.128:58001/play/a061/index.m3u
