@@ -5,8 +5,14 @@ http://200.24.132.99:8000/play/a02k
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
 http://200.24.132.99:8000/play/a006
 
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rts-en-vivo-1465.png",RTS HD
+http://200.24.132.99:8000/play/a004
+
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
 http://200.24.132.99:8000/play/a02j
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
+http://200.24.132.99:8000/play/a008
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",24h
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr_1000.m3u8
