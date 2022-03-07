@@ -14,6 +14,12 @@ http://200.24.132.99:8000/play/a02j
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
 http://200.24.132.99:8000/play/a008
 
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png",CANELA TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png",HECHOS ECUADOR
+http://37.187.7.106/hechostv/live.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",24h
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr_1000.m3u8
 
@@ -46,9 +52,6 @@ http://45.4.85.128:58001/play/a061/index.m3u
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
 http://200.24.132.99:8000/play/a028
-
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png",CANELA TV
-https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://dl.dropboxusercontent.com/s/r96s3q4dtb1cch0/2914301.jpg?dl=0",The Batman 2022
 https://dl.dropboxusercontent.com/s/6l1w2nk0tg5q8jg/The%20batman.mp4?dl=0
