@@ -56,6 +56,9 @@ http://200.24.132.99:8000/play/a028
 #EXTINF:-1 group-title="CINE" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/poster_20211116_010443.jpg",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8 
 
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",Blacklight
+https://cdn.jwplayer.com/manifests/SA2nRf7T.m3u8
+
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://dl.dropboxusercontent.com/s/r96s3q4dtb1cch0/2914301.jpg?dl=0",The Batman 2022
 https://dl.dropboxusercontent.com/s/6l1w2nk0tg5q8jg/The%20batman.mp4?dl=0
 
