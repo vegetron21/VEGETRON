@@ -14,9 +14,6 @@ http://200.24.132.99:8000/play/a02j
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
 http://200.24.132.99:8000/play/a008
 
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png",CANELA TV
-https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png",HECHOS ECUADOR
 http://37.187.7.106/hechostv/live.m3u8
 
