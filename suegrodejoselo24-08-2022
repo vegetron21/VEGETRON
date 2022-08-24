@@ -1,1 +1,59 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA
+http://200.24.132.99:8000/play/a02k
+
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
+http://200.24.132.99:8000/play/a006
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rts-en-vivo-1465.png",RTS HD
+http://200.24.132.99:8000/play/a004
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
+http://200.24.132.99:8000/play/a02j
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
+http://200.24.132.99:8000/play/a008
+
+
+#EXTINF:-1,ECTV HD
+http://200.24.132.99:8000/play/a00f
+#EXTINF:-1,ECTV SD
+http://200.24.132.99:8000/play/a00j
+#EXTINF:-1,Ecuador TV
+http://200.24.132.99:8000/play/a02g
+#EXTINF:-1,Ecuavisa
+http://200.24.132.99:8000/play/a02k
+#EXTINF:-1,Ecuavisa HD
+http://200.24.132.99:8000/play/a012
+#EXTINF:-1,Ecuavisa SD
+http://200.24.132.99:8000/play/a013
+#EXTINF:-1,GamaTV
+http://200.24.132.99:8000/play/a02h
+#EXTINF:-1,HomeandHealth
+http://200.24.132.99:8000/play/a02e
+#EXTINF:-1,Oromar  HD
+http://200.24.132.99:8000/play/a00c
+#EXTINF:-1,Oromar SD
+http://200.24.132.99:8000/play/a02x
+#EXTINF:-1,RTS
+http://200.24.132.99:8000/play/a02s
+#EXTINF:-1,RTS HD
+http://200.24.132.99:8000/play/a004
+#EXTINF:-1,TC HD
+http://200.24.132.99:8000/play/a008
+#EXTINF:-1,TC Television
+http://200.24.132.99:8000/play/a02j
+#EXTINF:-1,TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-1,TELEAMAZONAS HD
+http://200.24.132.99:8000/play/a006
+#EXTINF:-1,TNT
+http://200.24.132.99:8000/play/a01n
+#EXTINF:-1,Tc Television SD
+http://200.24.132.99:8000/play/a00m
+#EXTINF:-1,Teleamazonas
+http://200.24.132.99:8000/play/a02l
+#EXTINF:-1,Teleamazonas SD
+http://200.24.132.99:8000/play/a00n
+
 
