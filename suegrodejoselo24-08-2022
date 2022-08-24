@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA
-http://200.24.132.99:8000/play/a02k
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",Dragon ball gt
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/62.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
 http://200.24.132.99:8000/play/a006
