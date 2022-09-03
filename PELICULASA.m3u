@@ -47,6 +47,9 @@ https://s@d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIREC TV SPORT
 http://146.0.43.38:2336/play/a01o
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV opcion 2
+http://mon-key.us:25461/mauricio99/mauricio99/84
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
 http://45.4.85.128:58001/play/a061/index.m3u
 
