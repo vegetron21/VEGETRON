@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA
-http://200.24.132.99:8000/play/a02k
+http://streamgo.vip:8008/roberto12/roberto12/162741
 
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
-http://200.24.132.99:8000/play/a006
+http://streamgo.vip:8008/roberto12/roberto12/162742
 
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rts-en-vivo-1465.png",RTS HD
-http://200.24.132.99:8000/play/a004
+http://streamgo.vip:8008/roberto12/roberto12/162740
 
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
-http://200.24.132.99:8000/play/a02j
+http://streamgo.vip:8008/roberto12/roberto12/162751
 
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
-http://200.24.132.99:8000/play/a008
+http://streamgo.vip:8008/roberto12/roberto12/162739
 
 #EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png",HECHOS ECUADOR
 http://37.187.7.106/hechostv/live.m3u8
@@ -39,10 +39,10 @@ http://146.0.43.38:2336/play/a02h
 http://45.4.85.128:58001/play/a061/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
-http://200.24.132.99:8000/play/a023
+http://streamgo.vip:8008/roberto12/roberto12/128003
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png",ATV HD
-https://s@d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png",ECDF
+http://streamgo.vip:8008/roberto12/roberto12/162758
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIREC TV SPORT
 http://146.0.43.38:2336/play/a01o
