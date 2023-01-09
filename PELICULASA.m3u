@@ -1,69 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA
-http://streamgo.vip:8008/roberto12/roberto12/162741
 
-#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
-http://streamgo.vip:8008/roberto12/roberto12/162742
-
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rts-en-vivo-1465.png",RTS HD
-http://streamgo.vip:8008/roberto12/roberto12/162740
-
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
-http://streamgo.vip:8008/roberto12/roberto12/162751
-
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
-http://streamgo.vip:8008/roberto12/roberto12/162739
-
-#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png",HECHOS ECUADOR
-http://37.187.7.106/hechostv/live.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",24h
-https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr_1000.m3u8
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
-http://200.24.132.99:8000/play/a02o
-
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
-http://200.24.132.99:8000/play/a01w
-
-#EXTINF:-1 group-title="COCINA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png",CINEMAX
-http://146.0.43.38:2336/play/a02h
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET SD
-http://streamgo.vip:8008/roberto12/roberto12/147238
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
-http://streamgo.vip:8008/roberto12/roberto12/128003
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png",ECDF
-http://streamgo.vip:8008/roberto12/roberto12/162758
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIREC TV SPORT
-http://146.0.43.38:2336/play/a01o
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV opcion 2
-http://mon-key.us:25461/mauricio99/mauricio99/84
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
-http://45.4.85.128:58001/play/a061/index.m3u
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
-http://200.24.132.99:8000/play/a028
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png",Dsport Col
-http://streamgo.vip:8008/roberto12/roberto12/159055
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png",Dsport + Col
-http://streamgo.vip:8008/roberto12/roberto12/159054
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/poster_20211116_010443.jpg",CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 
 #EXTINF:-1,AE Mundo
 http://200.24.132.99:8000/play/a025
@@ -198,13 +134,78 @@ http://200.24.132.99:8000/play/a01z
 #EXTINF:-1,Zona Latina
 http://200.24.132.99:8000/play/a01j
 
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA
+http://streamgo.vip:8008/roberto12/roberto12/162741
 
+#EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",TELEAMAZONAS
+http://streamgo.vip:8008/roberto12/roberto12/162742
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rts-en-vivo-1465.png",RTS HD
+http://streamgo.vip:8008/roberto12/roberto12/162740
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL SD
+http://streamgo.vip:8008/roberto12/roberto12/162751
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC MI CANAL HD
+http://streamgo.vip:8008/roberto12/roberto12/162739
+
+#EXTINF:-1 group-title="TV LOCAL"tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png",HECHOS ECUADOR
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",24h
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr_1000.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+http://200.24.132.99:8000/play/a02o
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
+http://200.24.132.99:8000/play/a01w
+
+#EXTINF:-1 group-title="COCINA" tvg-logo="https://www.mediafire.com/convkey/e4ca/tkwc61b7fihmkdw7g.jpg",TASMADE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.mediafire.com/convkey/af5d/sfju8aehsy2ahjizg.jpg?size_id=5",FILM STREAM
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png",CINEMAX
+http://146.0.43.38:2336/play/a02h
+
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png",ANIMAL PLANET SD
+http://streamgo.vip:8008/roberto12/roberto12/147238
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV
+http://streamgo.vip:8008/roberto12/roberto12/128003
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png",ECDF
+http://streamgo.vip:8008/roberto12/roberto12/162758
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIREC TV SPORT
+http://146.0.43.38:2336/play/a01o
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png",GOL TV opcion 2
+http://mon-key.us:25461/mauricio99/mauricio99/84
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
+http://45.4.85.128:58001/play/a061/index.m3u
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img1.freepng.es/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg",FOX SPORT 2 SD
+http://200.24.132.99:8000/play/a028
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png",Dsport Col
+http://streamgo.vip:8008/roberto12/roberto12/159055
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png",Dsport + Col
+http://streamgo.vip:8008/roberto12/roberto12/159054
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/poster_20211116_010443.jpg",CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+
+
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://i0.wp.com/elgeneracionalpost.com/wp-content/uploads/2023/01/megan.jpg?fit=660%2C930&ssl=1",MEGAN 2022
+https://ia904705.us.archive.org/33/items/m-3ga-7-2023/m3ga7%202023.MP4
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",Blacklight
 https://cdn.jwplayer.com/manifests/SA2nRf7T.m3u8
-
-#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://dl.dropboxusercontent.com/s/r96s3q4dtb1cch0/2914301.jpg?dl=0",The Batman 2022
-https://dl.dropboxusercontent.com/s/6l1w2nk0tg5q8jg/The%20batman.mp4?dl=0
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Scream2022film.jpeg",Scream 2022
 https://content.jwplatform.com/videos/5W4GFI9b-Lta170q0.mp4
