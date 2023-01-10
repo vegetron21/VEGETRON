@@ -200,9 +200,14 @@ http://streamgo.vip:8008/roberto12/roberto12/159054
 #EXTINF:-1 group-title="CINE" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/poster_20211116_010443.jpg",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/16/12/54/0504030.jpg",Gato con botas el último deseo 2022
+https://ia904704.us.archive.org/10/items/6at-0-c-0n-b-0t-452023/6at0%20c0n%20b0t452023.mp4
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://i0.wp.com/elgeneracionalpost.com/wp-content/uploads/2023/01/megan.jpg?fit=660%2C930&ssl=1",MEGAN 2022
 https://ia904705.us.archive.org/33/items/m-3ga-7-2023/m3ga7%202023.MP4
+
+#EXTINF:0 group-title="ESTRENOS" tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/22/11/03/18/56/4871575.jpg",Avatar camino del agua 2022
+https://ia904702.us.archive.org/25/items/ava1a62023/ava1a62023.mp4
 
 #EXTINF:0 group-title="ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",Blacklight
 https://cdn.jwplayer.com/manifests/SA2nRf7T.m3u8
